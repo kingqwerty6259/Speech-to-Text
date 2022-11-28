@@ -11,6 +11,6 @@ while True:
 			text = text.lower()
 			print(text)
 	except:
-		print(":|")
+		print("...")
 		r = sr.Recognizer()
 		continue
